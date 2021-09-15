@@ -1,0 +1,53 @@
+* {
+	font-family: Arial;
+	color: #1e1e1e;
+}
+
+body {
+	background-color: #eee;
+}
+
+#container {
+	background-color: white;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	text-align: center;
+	background-color: #009879;
+	color: white;
+}
+
+table, th, td {
+	border-collapse: collapse;
+	border-bottom: 1px solid lightgray;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 8px 8px;
+}
+
+table th {
+	background-color: #009879;
+	color: white;
+	font-size: 18px;
+}
+
+a {
+	font-size: 18px;
+}
+
+a:hover {
+	color: red;
+}
+
+p {
+
+	padding: 40px 10px 10px 10px;
+	margin: auto;
+	text-align: center;
+	
+}
